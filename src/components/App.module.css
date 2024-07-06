@@ -1,0 +1,15 @@
+.content {
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 0 60px 0 60px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .content__container {
+    justify-content: space-around;
+    margin-top: 60px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+  }
